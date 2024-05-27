@@ -1,0 +1,6 @@
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\bin\Debug\ButtonLogger.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\bin\Debug\ButtonLogger.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.pdb

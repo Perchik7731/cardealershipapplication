@@ -1,0 +1,6 @@
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ПроектМДК\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
